@@ -84,7 +84,9 @@ public class HomeFragment extends Fragment {
 				sharedScore.setScoreHome(scoreDefault + 1);
 			}
 		});
+
 	}
+
 
 
 
